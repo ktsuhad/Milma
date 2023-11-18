@@ -1,0 +1,62 @@
+{
+  "chocolate": [
+    {
+      "image": "src/assets/chocolate1.png",
+      "name": "Chocolate Tub",
+      "weight": "500 ml",
+      "price": "00.00"
+    },
+    {
+      "image": "src/assets/chocolate2.png",
+      "name": "Chocolate Tub",
+      "weight": "500 ml",
+      "price": "00.00"
+    },
+    {
+      "image": "src/assets/chocolate3.png",
+      "name": "Chocolate Tora Tora",
+      "weight": "500 ml",
+      "price": "00.00"
+    }
+  ],
+  "vanilla": [
+    {
+      "image": "src/assets/chocolate3.png",
+      "name": "Vanilla Tub",
+      "weight": "500 ml",
+      "price": "00.00"
+    },
+    {
+      "image": "src/assets/mask-group3@2x.png",
+      "name": "Vanilla Tub",
+      "weight": "500 ml",
+      "price": "00.00"
+    },
+    {
+      "image": "src/assets/mask-group4@2x.png",
+      "name": "Vanilla Tora Tora",
+      "weight": "500 ml",
+      "price": "00.00"
+    }
+  ],
+  "pista": [
+    {
+      "image": "src/assets/chocolate1.png",
+      "name": "Pista Tub",
+      "weight": "500 ml",
+      "price": "00.00"
+    },
+    {
+      "image": "src/assets/mask-group3@2x.png",
+      "name": "Pista Tub",
+      "weight": "500 ml",
+      "price": "00.00"
+    },
+    {
+      "image": "src/assets/mask-group4@2x.png",
+      "name": "Pista Tora Tora",
+      "weight": "500 ml",
+      "price": "00.00"
+    }
+  ]
+}
